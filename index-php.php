@@ -98,7 +98,7 @@
                             <img src="<?php echo $song['poster']; ?>" alt="" class="my-poster">
                             <h3><?php echo $song['title']; ?></h3>
                             <h4><?php echo $song['author']; ?></h4>
-                            <div><?php echo $song['year']; ?></div>  
+                            <div><?php echo $song['year']; ?></div>      
                         </div>
                         
     
